@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639141257337",
+    "project_id": "antismishing-adc16",
+    "storage_bucket": "antismishing-adc16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639141257337:android:2d713435ac15fd809234a8",
+        "android_client_info": {
+          "package_name": "com.example.capstonedesign1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639141257337-s0blds9hgt9ernjk9uaf3i96t4rcf44h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByB5w4DvOq-9N5S6KHqIevXvaAJs46bfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639141257337-s0blds9hgt9ernjk9uaf3i96t4rcf44h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
